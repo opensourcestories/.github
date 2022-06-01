@@ -15,7 +15,8 @@ Thanks to these amazing people for believing in us and helping us tell more open
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://whois.auggie.dev/"><img src="https://avatars.githubusercontent.com/u/567897?v=4?s=100" width="100px;" alt="Stephen Augustus (he/him)'s profile picture"/><br /><sub><b>Stephen Augustus (he/him)</b></sub></a><br /><a href="https://github.com/opensourcestories/.github/blob/main/profile/README.md#financial-justaugustus" title="Financial Support">💵</a></td>
+    <td align="center"><a href="https://github.com/emmairwin"><img src="https://avatars.githubusercontent.com/u/60618?v=4" width="100px;" alt="Emma profile picture"/><br /><sub><b>Emma</b></sub></a></td>
+    <td align="center"><a href="https://whois.auggie.dev/"><img src="https://avatars.githubusercontent.com/u/567897?v=4" width="100px;" alt="Stephen Augustus (he/him) profile picture"/><br /><sub><b>Stephen Augustus (he/him)</b></sub></a></td>
   </tr>
 </table>
 
