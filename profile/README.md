@@ -5,3 +5,21 @@
 This is a project created by [amanda casari](https://twitter.com/amcasari) and [julia ferraioli](https://twitter.com/juliaferraioli) to document the oral histories and untold narratives of open source.
 
 Check us out at [opensourcestories.org](https://opensourcestories.org)!
+
+## Our sponsors
+
+Thanks to these amazing people for believing in us and helping us tell more open source stories.
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://whois.auggie.dev/"><img src="https://avatars.githubusercontent.com/u/567897?v=4?s=100" width="100px;" alt="Stephen Augustus (he/him)'s profile picture"/><br /><sub><b>Stephen Augustus (he/him)</b></sub></a><br /><a href="https://github.com/opensourcestories/.github/blob/main/profile/README.md#financial-justaugustus" title="Financial Support">💵</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
