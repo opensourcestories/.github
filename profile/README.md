@@ -16,6 +16,7 @@ Thanks to these amazing people for believing in us and helping us tell more open
 <table>
   <tr>
     <td align="center"><a href="https://github.com/emmairwin"><img src="https://avatars.githubusercontent.com/u/60618?v=4" width="100px;" alt="Emma profile picture"/><br /><sub><b>Emma</b></sub></a></td>
+    <td align="center"><a href="http://joshsimmons.com"><img src="https://avatars.githubusercontent.com/u/200770?v=4" width="100px;" alt="Josh Simmons profile picture"/><br /><sub><b>Josh Simmons</b></sub></a></td>
     <td align="center"><a href="https://whois.auggie.dev/"><img src="https://avatars.githubusercontent.com/u/567897?v=4" width="100px;" alt="Stephen Augustus (he/him) profile picture"/><br /><sub><b>Stephen Augustus (he/him)</b></sub></a></td>
   </tr>
 </table>
