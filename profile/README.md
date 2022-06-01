@@ -6,7 +6,7 @@ This is a project created by [amanda casari](https://twitter.com/amcasari) and [
 
 Check us out at [opensourcestories.org](https://opensourcestories.org)!
 
-## Our sponsors
+## Our sustaining sponsors
 
 Thanks to these amazing people for believing in us and helping us tell more open source stories.
 
