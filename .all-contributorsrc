@@ -1,10 +1,26 @@
 {
-  "files": ["profile/README.md"],
+  "files": [
+    "profile/README.md"
+  ],
   "imageSize": 100,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": true,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
   "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"<%= contributor.name %> profile picture\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
-  "skipCi": "true",
-  "contributors": []
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "justaugustus",
+      "name": "Stephen Augustus (he/him)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/567897?v=4",
+      "profile": "https://whois.auggie.dev/",
+      "contributions": [
+        "financial"
+      ]
+    }
+  ],
+  "projectName": ".github",
+  "projectOwner": "opensourcestories",
+  "repoType": "github",
+  "repoHost": "https://github.com"
 }
