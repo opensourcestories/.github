@@ -44,10 +44,20 @@
       "contributions": [
         "financial"
       ]
+    },
+    {
+      "login": "johnmark",
+      "name": "John Mark",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66144?v=4",
+      "profile": "http://www.johnmark.org/blog/",
+      "contributions": [
+        "financial"
+      ]
     }
   ],
   "projectName": ".github",
   "projectOwner": "opensourcestories",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitConvention": "angular"
 }
